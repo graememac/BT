@@ -1,0 +1,32 @@
+body {
+    font-family:arial;
+}
+
+[ng\:cloak], [ng-cloak], [data-ng-cloak], [x-ng-cloak], .ng-cloak, .x-ng-cloak {
+  display: none;
+}
+
+.letter_container {
+    float:left;
+    border-top:1px solid #000;
+    border-left:1px solid #000;
+    border-right:1px solid #000;
+}
+
+.letter_box {
+    border-bottom:1px solid #000;
+    padding:10px;
+    font-size:20px;
+}
+
+.word_box {
+    padding:10px;
+    border-bottom:1px solid #000;
+}
+
+/* Mobile only */
+@media screen and (max-width:550px){
+    .letter_column {
+        width:100%;
+    }
+}

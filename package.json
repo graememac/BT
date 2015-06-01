@@ -1,0 +1,22 @@
+{
+  "name": "BT",
+  "version": "1.0.0",
+  "description": "BT test app",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/graememac/BT.git"
+  },
+  "author": "Graeme MacFarlane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/graememac/BT/issues"
+  },
+  "homepage": "https://github.com/graememac/BT",
+  "dependencies": {
+    "express": "^4.12.4"
+  }
+}
